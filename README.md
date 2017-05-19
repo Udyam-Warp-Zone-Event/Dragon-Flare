@@ -1,7 +1,7 @@
 # Warp Zone, Udyam 2017  
 ## Dragon Flare 
 
-![](https://github.com/Udyam-Warp-Zone-Event/Space-Warp/raw/master/Screenshots/1.png)
+![](https://github.com/Udyam-Warp-Zone-Event/Dragon-Flare/raw/master/Screenshots/1.png)
 
 ### Description:
 An endless 2D side scroller game based on the mythical theme of Dragons
